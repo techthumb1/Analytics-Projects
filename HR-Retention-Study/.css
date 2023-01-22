@@ -1,0 +1,34 @@
+/* Change the font of the whole notebook */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Change the font size of headings */
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1.5em;
+}
+
+/* Change the background color of code cells */
+.code_cell {
+    background-color: #f2f2f2;
+}
+
+/* Change the color of the text inside code cells */
+.code_cell .highlight {
+    color: #333;
+}
+
+/* Add a border to tables */
+table {
+    border: 1px solid #ccc;
+}
+
+/* Add a hover effect to table rows */
+table tr:hover {
+    background-color: #f2f2f2;
+}
+
+/* Change the color of links */
+a {
+    color: #3498db;
+}
