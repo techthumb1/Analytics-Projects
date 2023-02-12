@@ -30,4 +30,5 @@ This project is written in Jupyter Notebook, kindly make sure to have the follow
 - seaborn
 - scikit-learn
 - statsmodels
+
 Also, make sure to have the data file in the same directory as the notebook.
